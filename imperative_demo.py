@@ -12,5 +12,5 @@ def isGreaterThan(x, y):
 
 #Imperative Style
 print("5 + 6 =", addTwoNums(5,6))
-print("4 + 55 + 32 =", addThreeNums(4,55,32))
-print("Is 5 greater than 107?", isGreaterThan(5, 107))
+print("4 + 55 + 32 =", addThreeNums(4,8,11))
+print("Is 5 greater than 107?", isGreaterThan(7, 9))
