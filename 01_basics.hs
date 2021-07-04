@@ -1,6 +1,6 @@
 module Basics where
 
--- BASIC FUNCTIONS
+-- HASKELL VS. PYTHON
 addTwoNums :: Int -> Int -> Int
 addTwoNums x y
     = x + y
